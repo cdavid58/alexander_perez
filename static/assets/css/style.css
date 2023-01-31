@@ -4474,9 +4474,9 @@ hr{
 }
 .comments-area{
     background:transparent;
-    border-top:1px solid #eee;
+/*    border-top:1px solid #eee;*/
     padding:45px 0;
-    margin-top:50px
+/*    margin-top:50px*/
 }
 @media (max-width: 414px){
     .comments-area{
